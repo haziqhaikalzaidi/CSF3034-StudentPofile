@@ -21,7 +21,8 @@ public class StudentProfile {
         // display mesagges
         System.out.println("Name: MUHAMAD HAZIQ HAIKAL BIN ZAIDI");
         System.out.println("Student ID: S85722");
+        System.out.println("number ic:070323030567");
+        System.out.println("phone number: 0179206349");
         System.out.println("Programme: Bachelor of Computer Science (Software Engineering).");
     }
-    
 }
